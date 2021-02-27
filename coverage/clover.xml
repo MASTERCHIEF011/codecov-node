@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1614453318315" clover="3.2.0">
+  <project timestamp="1614453318315" name="All files">
+    <metrics statements="292" coveredstatements="243" conditionals="181" coveredconditionals="131" methods="58" coveredmethods="50" elements="531" coveredelements="424" complexity="0" loc="292" ncloc="292" packages="2" files="23" classes="23"/>
+    <package name="lib">
+      <metrics statements="187" coveredstatements="139" conditionals="142" coveredconditionals="93" methods="15" coveredmethods="7"/>
+      <file name="codecov.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\codecov.js">
+        <metrics statements="170" coveredstatements="123" conditionals="136" coveredconditionals="88" methods="12" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="19" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="21" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+        <line num="147" count="1" type="stmt"/>
+        <line num="155" count="0" type="stmt"/>
+        <line num="168" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="169" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="170" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="174" count="0" type="stmt"/>
+        <line num="175" count="0" type="stmt"/>
+        <line num="176" count="0" type="stmt"/>
+        <line num="182" count="1" type="stmt"/>
+        <line num="190" count="0" type="stmt"/>
+        <line num="203" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="204" count="0" type="stmt"/>
+        <line num="212" count="0" type="stmt"/>
+        <line num="213" count="0" type="stmt"/>
+        <line num="223" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="224" count="0" type="stmt"/>
+        <line num="232" count="0" type="stmt"/>
+        <line num="233" count="0" type="stmt"/>
+        <line num="234" count="0" type="stmt"/>
+        <line num="243" count="1" type="stmt"/>
+        <line num="246" count="28" type="cond" truecount="4" falsecount="0"/>
+        <line num="250" count="28" type="stmt"/>
+        <line num="251" count="28" type="stmt"/>
+        <line num="253" count="28" type="cond" truecount="4" falsecount="0"/>
+        <line num="258" count="28" type="stmt"/>
+        <line num="270" count="28" type="cond" truecount="4" falsecount="0"/>
+        <line num="271" count="23" type="stmt"/>
+        <line num="272" count="23" type="stmt"/>
+        <line num="274" count="5" type="stmt"/>
+        <line num="277" count="28" type="stmt"/>
+        <line num="278" count="56" type="stmt"/>
+        <line num="286" count="28" type="cond" truecount="2" falsecount="0"/>
+        <line num="287" count="1" type="stmt"/>
+        <line num="290" count="28" type="cond" truecount="2" falsecount="0"/>
+        <line num="291" count="1" type="stmt"/>
+        <line num="294" count="28" type="cond" truecount="2" falsecount="0"/>
+        <line num="295" count="1" type="stmt"/>
+        <line num="298" count="28" type="cond" truecount="2" falsecount="0"/>
+        <line num="299" count="1" type="stmt"/>
+        <line num="303" count="28" type="cond" truecount="3" falsecount="0"/>
+        <line num="304" count="28" type="cond" truecount="2" falsecount="0"/>
+        <line num="305" count="1" type="stmt"/>
+        <line num="309" count="28" type="stmt"/>
+        <line num="310" count="28" type="stmt"/>
+        <line num="311" count="28" type="stmt"/>
+        <line num="317" count="28" type="cond" truecount="4" falsecount="0"/>
+        <line num="321" count="28" type="cond" truecount="2" falsecount="0"/>
+        <line num="322" count="10" type="stmt"/>
+        <line num="325" count="28" type="stmt"/>
+        <line num="327" count="28" type="stmt"/>
+        <line num="328" count="28" type="stmt"/>
+        <line num="330" count="28" type="stmt"/>
+        <line num="336" count="28" type="stmt"/>
+        <line num="339" count="28" type="stmt"/>
+        <line num="340" count="28" type="cond" truecount="5" falsecount="0"/>
+        <line num="341" count="2" type="stmt"/>
+        <line num="348" count="2" type="stmt"/>
+        <line num="349" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="350" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="351" count="7" type="stmt"/>
+        <line num="354" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="355" count="2" type="stmt"/>
+        <line num="360" count="28" type="cond" truecount="3" falsecount="0"/>
+        <line num="361" count="28" type="stmt"/>
+        <line num="362" count="28" type="stmt"/>
+        <line num="363" count="28" type="stmt"/>
+        <line num="364" count="28" type="cond" truecount="1" falsecount="1"/>
+        <line num="365" count="0" type="stmt"/>
+        <line num="367" count="28" type="stmt"/>
+        <line num="370" count="0" type="stmt"/>
+        <line num="377" count="28" type="cond" truecount="4" falsecount="0"/>
+        <line num="378" count="27" type="stmt"/>
+        <line num="379" count="27" type="stmt"/>
+        <line num="380" count="27" type="cond" truecount="2" falsecount="0"/>
+        <line num="381" count="27" type="cond" truecount="2" falsecount="0"/>
+        <line num="382" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="383" count="0" type="stmt"/>
+        <line num="386" count="0" type="stmt"/>
+        <line num="390" count="1" type="stmt"/>
+        <line num="393" count="1" type="stmt"/>
+        <line num="399" count="27" type="cond" truecount="1" falsecount="1"/>
+        <line num="400" count="0" type="stmt"/>
+        <line num="413" count="27" type="stmt"/>
+        <line num="422" count="27" type="stmt"/>
+        <line num="423" count="27" type="stmt"/>
+        <line num="424" count="27" type="stmt"/>
+        <line num="426" count="27" type="stmt"/>
+        <line num="429" count="1" type="stmt"/>
+        <line num="434" count="28" type="cond" truecount="1" falsecount="1"/>
+        <line num="435" count="0" type="stmt"/>
+        <line num="441" count="28" type="stmt"/>
+        <line num="443" count="28" type="cond" truecount="1" falsecount="1"/>
+        <line num="444" count="0" type="stmt"/>
+        <line num="445" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="446" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="447" count="0" type="stmt"/>
+        <line num="453" count="0" type="stmt"/>
+        <line num="462" count="28" type="stmt"/>
+        <line num="463" count="28" type="stmt"/>
+        <line num="464" count="28" type="cond" truecount="1" falsecount="1"/>
+        <line num="466" count="0" type="stmt"/>
+        <line num="467" count="0" type="stmt"/>
+        <line num="468" count="28" type="cond" truecount="2" falsecount="0"/>
+        <line num="470" count="2" type="stmt"/>
+        <line num="471" count="2" type="stmt"/>
+        <line num="472" count="2" type="stmt"/>
+        <line num="473" count="2" type="stmt"/>
+        <line num="479" count="1" type="stmt"/>
+        <line num="480" count="1" type="stmt"/>
+        <line num="482" count="1" type="stmt"/>
+        <line num="483" count="1" type="stmt"/>
+        <line num="485" count="26" type="cond" truecount="4" falsecount="0"/>
+        <line num="486" count="25" type="stmt"/>
+        <line num="489" count="25" type="cond" truecount="1" falsecount="1"/>
+        <line num="492" count="0" type="stmt"/>
+        <line num="493" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="494" count="0" type="stmt"/>
+        <line num="496" count="0" type="stmt"/>
+        <line num="503" count="25" type="stmt"/>
+        <line num="504" count="25" type="cond" truecount="1" falsecount="1"/>
+        <line num="505" count="0" type="stmt"/>
+        <line num="507" count="25" type="stmt"/>
+        <line num="512" count="25" type="cond" truecount="1" falsecount="1"/>
+        <line num="513" count="25" type="stmt"/>
+        <line num="514" count="25" type="stmt"/>
+        <line num="515" count="25" type="stmt"/>
+        <line num="516" count="25" type="stmt"/>
+        <line num="522" count="17" type="stmt"/>
+        <line num="523" count="17" type="stmt"/>
+        <line num="525" count="8" type="stmt"/>
+        <line num="526" count="8" type="stmt"/>
+        <line num="531" count="1" type="stmt"/>
+        <line num="534" count="28" type="cond" truecount="1" falsecount="1"/>
+        <line num="536" count="28" type="cond" truecount="1" falsecount="1"/>
+        <line num="537" count="28" type="stmt"/>
+        <line num="538" count="28" type="stmt"/>
+        <line num="539" count="28" type="stmt"/>
+        <line num="541" count="0" type="stmt"/>
+        <line num="543" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="544" count="0" type="stmt"/>
+        <line num="546" count="0" type="stmt"/>
+        <line num="548" count="0" type="stmt"/>
+        <line num="554" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="555" count="0" type="stmt"/>
+        <line num="556" count="0" type="stmt"/>
+        <line num="557" count="0" type="stmt"/>
+        <line num="561" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="562" count="0" type="stmt"/>
+        <line num="570" count="28" type="stmt"/>
+        <line num="580" count="56" type="cond" truecount="2" falsecount="0"/>
+        <line num="581" count="53" type="stmt"/>
+        <line num="583" count="3" type="stmt"/>
+        <line num="586" count="1" type="stmt"/>
+      </file>
+      <file name="detect.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\detect.js">
+        <metrics statements="13" coveredstatements="12" conditionals="6" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="24" count="26" type="stmt"/>
+        <line num="25" count="451" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="30" count="26" type="cond" truecount="2" falsecount="0"/>
+        <line num="31" count="25" type="stmt"/>
+        <line num="32" count="25" type="stmt"/>
+        <line num="33" count="25" type="cond" truecount="1" falsecount="1"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="37" count="26" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+      </file>
+      <file name="git.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\git.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="7" type="stmt"/>
+        <line num="3" count="7" type="stmt"/>
+        <line num="5" count="29" type="stmt"/>
+        <line num="11" count="34" type="stmt"/>
+      </file>
+    </package>
+    <package name="lib.services">
+      <metrics statements="105" coveredstatements="104" conditionals="39" coveredconditionals="38" methods="43" coveredmethods="43"/>
+      <file name="appveyor.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\appveyor.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="26" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="azurePipelines.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\azurePipelines.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="26" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="buildkite.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\buildkite.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="26" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="circle.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\circle.js">
+        <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="26" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="18" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="29" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+      </file>
+      <file name="cirrus.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\cirrus.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="26" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+      <file name="codebuild.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\codebuild.js">
+        <metrics statements="14" coveredstatements="14" conditionals="8" coveredconditionals="8" methods="5" coveredmethods="5"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="5" count="26" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="20" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="29" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="38" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="39" count="4" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+      </file>
+      <file name="codeship.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\codeship.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="26" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="drone.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\drone.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="5" count="26" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="github_actions.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\github_actions.js">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="26" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="20" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+      </file>
+      <file name="gitlab.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\gitlab.js">
+        <metrics statements="5" coveredstatements="5" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="5" count="27" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="11" count="3" type="cond" truecount="3" falsecount="0"/>
+        <line num="12" count="3" type="stmt"/>
+      </file>
+      <file name="heroku.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\heroku.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="5" count="26" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="jenkins.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\jenkins.js">
+        <metrics statements="5" coveredstatements="5" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="5" count="26" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+      </file>
+      <file name="localGit.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\localGit.js">
+        <metrics statements="8" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="5" count="28" type="stmt"/>
+        <line num="6" count="28" type="stmt"/>
+        <line num="7" count="28" type="cond" truecount="1" falsecount="1"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="28" type="stmt"/>
+        <line num="11" count="28" type="stmt"/>
+      </file>
+      <file name="semaphore.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\semaphore.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="27" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="semaphore2x.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\semaphore2x.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="27" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="shippable.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\shippable.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="snap.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\snap.js">
+        <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="26" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+      </file>
+      <file name="teamcity.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\teamcity.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="4" count="26" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="travis.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\travis.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="27" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+      </file>
+      <file name="wercker.js" path="C:\Users\MasterChief\Desktop\NewUniAuth\codecov-node\lib\services\wercker.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="5" count="26" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
